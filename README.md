@@ -4,6 +4,17 @@ Toda a estilização que será usada no projeto dentro do figma.
 
 [Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
 
+
+
+https://github.com/user-attachments/assets/f9fc16c4-62d4-4507-8787-4cfd17155200
+
+
+
+
+
+
+
+
 <h1 align="center"> Desktop</h1>
 
 <img width="725" height="868" alt="Captura de tela de 2025-07-25 12-11-05" src="https://github.com/user-attachments/assets/be30f238-00d1-4df4-93ae-6886d41ba8c7" />
